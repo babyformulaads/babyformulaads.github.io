@@ -1579,9 +1579,9 @@ pre code {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 768px) {
+@media (min-width: 800px) {
   .container {
-    width: 750px;
+    width: 800px;
   }
 }
 /*@media (min-width: 992px) {
