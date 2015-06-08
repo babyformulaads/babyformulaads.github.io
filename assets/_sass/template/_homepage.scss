@@ -1,0 +1,27 @@
+@import "template/homepage-banner";
+
+
+.homepage{
+
+  .frontmatter{
+    padding-top: 2.0em;
+    padding-bottom: 2.0em;
+
+    .container{
+       max-width: $chapter-container-width;
+    }
+
+
+    .intro, .toc{
+      font-size: 1.2em;
+      line-height: 1.4em;
+    }
+
+    .toc{
+      padding-left: 0.1em;
+      font-size: 1.1em
+    }
+
+  }
+}
+

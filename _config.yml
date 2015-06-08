@@ -1,0 +1,23 @@
+# Site settings
+title: The Baby Formula Mixup
+description: |
+  A story description
+
+author: Laura Forman
+url: "http://single-jekyll-story.github.io" # the base hostname & protocol for your site
+email: your-email@domain.com
+linkedin_full_url: https://www.linkedin.com/in/demoaccount
+twitter_username: jekyllrb
+github_repo:  single-jekyll-story/single-jekyll-story.github.io
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/, if applicable
+
+
+# Build settings
+markdown: kramdown
+sass:
+    sass_dir: assets/_sass
+
+
+
