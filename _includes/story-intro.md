@@ -1,1 +1,5 @@
-Hello. Write a quick introduction blurb __to your story__ here. And so forth. Use Markdown obviously. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur __facilis natus dolores optio__, cumque ipsam unde illo minus voluptates voluptas veritatis quo corporis fugit eius deleniti amet reprehenderit odio eligendi.
+Formula manufacturers advertise heavily through hospital and government channels in addition to consumer-based campaigns. 
+
+In the U.S., advertising freedoms rooted in our First Amendement rights are meant to encourage the spirit of competition in the marketplace.
+
+But increased exposure to formula products, both in and out of the hospital, weighs heavily on mothers' choice to breastfeed. 
