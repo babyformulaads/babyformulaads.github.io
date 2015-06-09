@@ -1,13 +1,13 @@
 # Site settings
-title: The Baby Formula Mixup
+title: Baby Formula Free for All
 description: |
-  A story description that will show up at the top of the page on the front page.
+  Formula handouts weigh on mothers' choice to breastfeed
 
-author: Laura Forman
+author: Laura J. Forman
 url: "http://single-jekyll-story.github.io" # the base hostname & protocol for your site
-email: your-email@domain.com
-linkedin_full_url: https://www.linkedin.com/in/demoaccount
-twitter_username: jekyllrb
+email: ljlandry@gmail.com
+linkedin_full_url: https://www.linkedin.com/pub/laura-forman/7/719/5a5
+twitter_username: doubleljsquared
 github_repo:  babyformulaads/babyformulaads.github.io
 
 
